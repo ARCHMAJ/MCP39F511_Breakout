@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name MCP39F511-E_MQ)(type Legacy)(uri ${KIPRJMOD}/lib/MCP39F511-E_MQ.lib)(options "")(descr ""))
+  (lib (name "MCP39F511-E_MQ")(type "Legacy")(uri "${KIPRJMOD}/lib/MCP39F511-E_MQ.lib")(options "")(descr ""))
+  (lib (name "MCP9700T-E_TT")(type "Legacy")(uri "${KIPRJMOD}/lib/MCP9700T-E_TT.lib")(options "")(descr ""))
 )
