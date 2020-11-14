@@ -335,7 +335,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "MCP39F511_Breakout.dsn",
       "step": "",
       "vrml": ""
     },
@@ -372,7 +372,7 @@
   },
   "sheets": [
     [
-      "cbf5faee-de48-4e7d-add8-84dfb6e4cc45",
+      "81ae3adc-c933-47db-9842-0afc89c82f7a",
       ""
     ]
   ],
