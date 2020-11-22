@@ -1,7 +1,7 @@
 (export (version "D")
   (design
     (source "C:\\Users\\Tisham\\Documents\\kicad\\MCP39F511_Breakout\\MCP39F511_Breakout.kicad_sch")
-    (date "22/11/2020 3:28:18 PM")
+    (date "22/11/2020 11:11:35 PM")
     (tool "Eeschema (5.99.0-6951-g72beaf1538)")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -85,9 +85,9 @@
       (footprint "Capacitor_SMD:C_0603_1608Metric")
       (datasheet "~")
       (fields
-        (field (name "manf#") "06035C273MAT2A"))
+        (field (name "manf#") "0603YC333KAT2A"))
       (libsource (lib "Device") (part "C_Small") (description "Unpolarized capacitor, small symbol"))
-      (property (name "manf#") (value "06035C273MAT2A"))
+      (property (name "manf#") (value "0603YC333KAT2A"))
       (property (name "Sheet name") (value ""))
       (property (name "Sheet file") (value "C:/Users/Tisham/Documents/kicad/MCP39F511_Breakout/MCP39F511_Breakout.kicad_sch"))
       (sheetpath (names "/") (tstamps "/"))
@@ -97,9 +97,9 @@
       (footprint "Capacitor_SMD:C_0603_1608Metric")
       (datasheet "~")
       (fields
-        (field (name "manf#") "06035C273MAT2A"))
+        (field (name "manf#") "0603YC333KAT2A"))
       (libsource (lib "Device") (part "C_Small") (description "Unpolarized capacitor, small symbol"))
-      (property (name "manf#") (value "06035C273MAT2A"))
+      (property (name "manf#") (value "0603YC333KAT2A"))
       (property (name "Sheet name") (value ""))
       (property (name "Sheet file") (value "C:/Users/Tisham/Documents/kicad/MCP39F511_Breakout/MCP39F511_Breakout.kicad_sch"))
       (sheetpath (names "/") (tstamps "/"))
@@ -109,9 +109,9 @@
       (footprint "Capacitor_SMD:C_0603_1608Metric")
       (datasheet "~")
       (fields
-        (field (name "manf#") "06035C273MAT2A"))
+        (field (name "manf#") "0603YC333KAT2A"))
       (libsource (lib "Device") (part "C_Small") (description "Unpolarized capacitor, small symbol"))
-      (property (name "manf#") (value "06035C273MAT2A"))
+      (property (name "manf#") (value "0603YC333KAT2A"))
       (property (name "Sheet name") (value ""))
       (property (name "Sheet file") (value "C:/Users/Tisham/Documents/kicad/MCP39F511_Breakout/MCP39F511_Breakout.kicad_sch"))
       (sheetpath (names "/") (tstamps "/"))
@@ -121,9 +121,9 @@
       (footprint "Capacitor_SMD:C_0603_1608Metric")
       (datasheet "~")
       (fields
-        (field (name "manf#") "06035C273MAT2A"))
+        (field (name "manf#") "0603YC333KAT2A"))
       (libsource (lib "Device") (part "C_Small") (description "Unpolarized capacitor, small symbol"))
-      (property (name "manf#") (value "06035C273MAT2A"))
+      (property (name "manf#") (value "0603YC333KAT2A"))
       (property (name "Sheet name") (value ""))
       (property (name "Sheet file") (value "C:/Users/Tisham/Documents/kicad/MCP39F511_Breakout/MCP39F511_Breakout.kicad_sch"))
       (sheetpath (names "/") (tstamps "/"))
