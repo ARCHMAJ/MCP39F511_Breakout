@@ -334,7 +334,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "../../../../../Program Files/KiCad/",
       "specctra_dsn": "MCP39F511_Breakout.dsn",
       "step": "",
       "vrml": ""
@@ -362,7 +362,7 @@
     "meta": {
       "version": 0
     },
-    "net_format_name": "",
+    "net_format_name": "Pcbnew",
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
@@ -372,7 +372,7 @@
   },
   "sheets": [
     [
-      "81ae3adc-c933-47db-9842-0afc89c82f7a",
+      "abda26de-ac79-4200-b6da-ae16f5dc617b",
       ""
     ]
   ],
