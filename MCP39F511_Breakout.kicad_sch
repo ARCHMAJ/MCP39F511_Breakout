@@ -4263,6 +4263,9 @@
     (property "STANDARD" "IPC-7351B" (id 7) (at 134.0104 83.0834 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
+    (property "manf#" "MCP39F511-E/MQ" (id 4) (at 134.0104 83.0834 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
   )
 
   (sheet_instances
