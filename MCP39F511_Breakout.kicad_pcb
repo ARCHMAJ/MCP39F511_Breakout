@@ -2859,7 +2859,7 @@
   (gr_text "3V3" (at 116.84 113.895238 90) (layer "B.SilkS") (tstamp 8e12be61-0d41-4af8-9ffa-261f9aa9473b)
     (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
   )
-  (gr_text "by Tisham Dhar\nhttp://whatnick.com\nv0.1 16/11/2020" (at 128.905 94.615) (layer "B.SilkS") (tstamp 98a270f4-9bb5-41fb-9dd3-ceeac586c1c9)
+  (gr_text "by Tisham Dhar\nhttp://whatnick.com\nv0.2 06/12/2020" (at 128.905 94.615) (layer "B.SilkS") (tstamp 98a270f4-9bb5-41fb-9dd3-ceeac586c1c9)
     (effects (font (size 1 1) (thickness 0.25)) (justify mirror))
   )
   (gr_text "VN" (at 121.92 114.323809 90) (layer "B.SilkS") (tstamp 9bb0a23f-08a5-47c2-8dd2-000b11a7d59b)
